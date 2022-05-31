@@ -6,16 +6,12 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 {% include gh_variables.html %}
 
-# ELIXIR-UK Data Management Course
-
-## About this course
-
 This lesson provides researchers producing and working with data in the Life Sciences, with the skills necessary to manage and annotate their data.
 In this lesson, we illustrate the main concepts of managing data within a research team, and to put these into context using examples of good practice and highlighting common errors made by people producing and working with data.
 After this lesson you will earn:
-1- Use appropriate systems/methodology to structure data, including how to name data/files/folders and how to organise files/folders.
-2- Develop good practices for recording data provenance and metadata annotation.
-3- Identify good data practices used by specific data communities through providing examples of user stories 
+* Use appropriate systems/methodology to structure data, including how to name data/files/folders and how to organise files/folders.
+* Develop good practices for recording data provenance and metadata annotation.
+* Identify good data practices used by specific data communities through providing examples of user stories 
 
 
 ## Episodes
