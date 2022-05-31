@@ -13,20 +13,5 @@ After this lesson you will earn:
 * Develop good practices for recording data provenance and metadata annotation.
 * Identify good data practices used by specific data communities through providing examples of user stories 
 
-
-## Episodes
-
-| # |  Episode | Time | Section(s)|
-|--:|:---------|:----:|:------------|
-| 1 | [Data Management life cycle][episode01] | 30 | What is data management?<br>What is the difference between data management and data provenance?<br>Who is responsible for the data management in a research project?|
-| 2 | [Data Management Plan][episode02] | 30 | What is data management plan?<br>How to write different sections of the data management plan?<br>Tools and templates for writing the data management plan 
-| 3 | [Moving from the DMP to managing your data for the study][episode04] | 50 | Metadata and ontologies <br> How to record metadata and provance of files: templates and single pages <br> How to use controlled vocabularies and ontologies? <br> How to name files and directories? <br> Data organization and file versioning
-| 4 | [Storing your data][episode04] | 30 | Data storage consideration <br> Data storage of sensitive data  <br> Data storage of large files
-| 5 | [Processing your data][episode05] | 30 | What is data processing? <br> Data quality metrics <br> Methods for ensuring good quality data capture <br> Examples of communities with data collection standards<br>
-| 6 | [Archiving your data][episode06] | 40 | What is the different between data storage and archive? <br> What to consider when archiving your data? <br> Examples of different archives structure
-| 7 | [Data security][episode07] | 20 | Ethical aspects of data management <br> Legal aspects of data management
-| 8 | [Reuse your data][episode08] | 20 | |
-| 9 | [Destroy your data][episode09] | 20 | |
-
 {% include links.md %}
 
