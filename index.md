@@ -6,42 +6,31 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 {% include gh_variables.html %}
 
-For guidelines on how to develop curriculum content, please visit
-[The Carpentries Curriculum Development Handbook][curriculum-handbook].
+# ELIXIR-UK Data Management Course
 
-This lesson shows how to use [The Carpentries]({{ site.carpentries_site}})
-lesson template. The materials below assume familiarity with tools such as GitHub, Markdown,
-and Jekyll. For more guidance, please visit the [Technological introductions][tech-intro]
-section of The Carpentries Curriculum Development Handbook.
+## About this course
 
-For guidelines on how to help improve our lessons and this template,
-please see [the contribution guidelines][contributing];
-for guidelines on how to set up your machine to preview changes locally,
-please see [the setup instructions]({{ page.root }}{% link setup.md %}).
+This lesson provides researchers producing and working with data in the Life Sciences, with the skills necessary to manage and annotate their data.
+In this lesson, we illustrate the main concepts of managing data within a research team, and to put these into context using examples of good practice and highlighting common errors made by people producing and working with data.
+After this lesson you will earn:
+1- Use appropriate systems/methodology to structure data, including how to name data/files/folders and how to organise files/folders.
+2- Develop good practices for recording data provenance and metadata annotation.
+3- Identify good data practices used by specific data communities through providing examples of user stories 
 
-> ## Prerequisites
->
-> Use the `.prereq` style to specify prerequisites.
-{: .prereq}
 
-> ## Ten Things You Need To Know
->
-> 0.  Don't panic.
-> 1.  Create a new lesson by using GitHub Import, *not* by forking.
-> 2.  Run `bin/lesson_initialize.py` *once* in a new lesson repository to set up standard files.
-> 3.  Run `make lesson-check` to check that the lesson is formatted correctly.
-> 4.  Put lesson episodes in `_episodes` (or `_episodes_rmd` if you are writing in RMarkdown).
-> 5.  Run `make serve` to preview the lesson website locally.
-> 6.  Do *not* commit the generated HTML files in the `_site` directory.
-> 7.  Style blocks and code samples by putting `{: .stylename}` on a newline *after* the block or
-      code.
-> 8.  Put solutions inside challenges using nested blockquotes.
-> 9.  File issues and template fixes in the [styles repository][styles],
->     and enhancements to this documentation in this one.
-{: .checklist}
+## Episodes
 
-[curriculum-handbook]: https://carpentries.github.io/curriculum-development/
-[tech-intro]: https://carpentries.github.io/curriculum-development/technological-introductions.html
+| # |  Episode | Time | Section(s)|
+|--:|:---------|:----:|:------------|
+| 1 | [Data Management life cycle][episode01] | 30 | What is data management?<br>What is the difference between data management and data provenance?<br>Who is responsible for the data management in a research project?|
+| 2 | [Data Management Plan][episode02] | 30 | What is data management plan?<br>How to write different sections of the data management plan?<br>Tools and templates for writing the data management plan 
+| 3 | [Moving from the DMP to managing your data for the study][episode04] | 50 | Metadata and ontologies <br> How to record metadata and provance of files: templates and single pages <br> How to use controlled vocabularies and ontologies? <br> How to name files and directories? <br> Data organization and file versioning
+| 4 | [Storing your data][episode04] | 30 | Data storage consideration <br> Data storage of sensitive data  <br> Data storage of large files
+| 5 | [Processing your data][episode05] | 30 | What is data processing? <br> Data quality metrics <br> Methods for ensuring good quality data capture <br> Examples of communities with data collection standards<br>
+| 6 | [Archiving your data][episode06] | 40 | What is the different between data storage and archive? <br> What to consider when archiving your data? <br> Examples of different archives structure
+| 7 | [Data security][episode07] | 20 | Ethical aspects of data management <br> Legal aspects of data management
+| 8 | [Reuse your data][episode08] | 20 | |
+| 9 | [Destroy your data][episode09] | 20 | |
 
 {% include links.md %}
 
