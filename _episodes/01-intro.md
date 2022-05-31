@@ -6,3 +6,4 @@ questions:
 - "What is data management?"
 - "What is the difference between data management and data provenance?"
 - "Who is responsible for the data management in a research project?"
+---
