@@ -13,7 +13,7 @@ After this lesson you will learn:
 * Develop good practices for recording data provenance and metadata annotation.
 * Identify good data practices used by specific data communities through providing examples of user stories 
 
-![This lesson is part of ELXIR-UK DaSH courses]([http://url/to/img.png](https://drive.google.com/file/d/1W4QwNncglK57T6lYxu2yKE2uUVlp64Io/view?usp=sharing))
+
 
 {% include links.md %}
 
