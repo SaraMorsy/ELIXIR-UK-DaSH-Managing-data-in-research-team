@@ -1,4 +1,4 @@
-# ELIXIR-UK Data Management Course
+# ELIXIR-UK DaSH Data Management Course
 
 ## About this course
 
